@@ -4,7 +4,7 @@ The associated script **run_analysis.R** is designed to provide a tidy, derived 
 
 This data is a collection of physical activity of several subjects collected via smartphones. The specifics of this file are described in detail  [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-The source data contains two sets of data, train, and test, the **run_analysis.R** script will merge these data sets. It will then extract only the mean and std measurements and calculate averages of these values for each subject and activity. The resultant data set will be written to a file called **tidy.txt** in the same directory as **run_analysis.R**.
+The source data contains two sets of data, train, and test, the **run_analysis.R** script will merge these data sets. It will then extract only the mean and standard deviation measurements and calculate averages of these values for each subject and activity. The resultant data set will be written to a file called **tidy.txt** in the same directory as **run_analysis.R**.
 
 ## Instructions
 
